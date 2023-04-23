@@ -1,0 +1,18 @@
+Internal Node
+Would you like to explore our cuisines?
+Internal Node
+Would you like to have curries and/or rice?
+Internal Node
+Does it have coconut curry?
+Leaf
+Thai
+Leaf
+Indian
+Internal Node
+Does the food use beans and salsa?
+Leaf
+Mexican
+Leaf
+Italian
+Leaf
+No worries, we will consider every cuisine! (Enter "yes" to continue)

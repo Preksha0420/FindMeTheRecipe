@@ -1,0 +1,14 @@
+Internal Node
+Would you like to explore our dietary options?
+Internal Node
+Would you like to have meat?
+Leaf
+Chicken
+Internal Node
+Is it free of animal products?
+Leaf
+Vegan
+Leaf
+Vegetarian
+Leaf
+No worries, we will consider all diet options! (Enter "yes" to continue)
